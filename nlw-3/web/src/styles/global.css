@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	color: #fff;
+	background: #ebf2f5;
+	font-family: 'Nunito', sans-serif;
+}
+
+body,
+input,
+button,
+textarea {
+	font-family: 'Nunito', sans-serif;
+	font: 600px 18px 'Nunito', sans-serif;
+}
